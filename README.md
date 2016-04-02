@@ -1,2 +1,2 @@
-# py_bot-youtube-view-bot
+#pytube-bot
 a bot written in python for youtube views
