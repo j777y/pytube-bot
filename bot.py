@@ -4,6 +4,7 @@ import os
 
 print "BY TURTAPPS"
 print "Subscribe to 'open coder' in youtube"
+print "GO TO Turtapps.com"
 
 url = raw_input("URL>")
 refresh = 10
